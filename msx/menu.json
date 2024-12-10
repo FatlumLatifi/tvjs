@@ -44,16 +44,10 @@
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
         },
         {
-            "icon": "sports-soccer",
-            "label": "Sports DD",
+            "icon": "live-tv",
+            "label": "TheTV",
             "extensionLabel": "IPTV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://bit.ly/ddy-m3u1-all"
-        },
-        {
-            "icon": "sports-soccer",
-            "label": "Sports SU",
-            "extensionLabel": "IPTV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://bit.ly/su-m3u1"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://bit.ly/tta-m3u"
         }
     ]
 }
