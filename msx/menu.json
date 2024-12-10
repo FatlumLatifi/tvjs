@@ -10,7 +10,7 @@
         {
             "icon": "living",
             "label": "Turkish",
-            "extensionLabel": "Extended",
+            "extensionLabel": "Default",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
         },
         {
