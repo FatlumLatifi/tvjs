@@ -36,6 +36,14 @@
             "label": "Kosovo TV",
             "extensionLabel": "KS",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/countries/xk.m3u"
+        },
+        {
+            "icon": "star",
+            "label": "Kosovo TV",
+            "extensionLabel": "KS",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
         }
+
+        
     ]
 }
