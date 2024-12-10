@@ -4,7 +4,7 @@
         {
             "icon": "star",
             "label": "Shqip",
-            "extensionLabel": "Extended",
+            "extensionLabel": "Albanian",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
         },
         {
@@ -29,7 +29,7 @@
             "icon": "euro",
             "label": "Europe",
             "extensionLabel": "Default",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/regions/emea.m3u"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=http://iptv-org.github.io/iptv/regions/emea.m3u"
         },
         {
             "icon": "star",
