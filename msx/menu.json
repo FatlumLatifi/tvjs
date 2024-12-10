@@ -10,8 +10,8 @@
         {
             "icon": "living",
             "label": "Turkish",
-            "extensionLabel": "Default",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
+            "extensionLabel": "Extended",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
         },
         {
             "icon": "movie",
@@ -24,6 +24,12 @@
             "label": "Sports",
             "extensionLabel": "Default",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
+            "icon": "euro",
+            "label": "Europe",
+            "extensionLabel": "Default",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/regions/emea.m3u"
         },
         {
             "icon": "star",
