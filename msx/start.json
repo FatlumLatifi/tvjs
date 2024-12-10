@@ -1,5 +1,5 @@
 {
-    "name": "My Example Content",
+    "name": "IPTV",
     "version": "1.0.0",
     "parameter": "menu:http://tv.servesoftware.com.de/msx/menu.json"
 }
