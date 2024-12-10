@@ -4,14 +4,14 @@
         {
             "icon": "star",
             "label": "Shqip",
-            "extensionLabel": "Default",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
+            "extensionLabel": "Extended",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
         },
         {
             "icon": "living",
             "label": "Turkish",
-            "extensionLabel": "Default",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
+            "extensionLabel": "Extended",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
         },
         {
             "icon": "movie",
