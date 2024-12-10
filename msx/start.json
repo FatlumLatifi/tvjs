@@ -1,5 +1,5 @@
 {
     "name": "My Example Content",
     "version": "1.0.0",
-    "parameter": "menu:http://fatlumlatifi.github.io/tvjs/msx/menu.json"
+    "parameter": "menu:http://tv.servesoftware.com.de/msx/menu.json"
 }
