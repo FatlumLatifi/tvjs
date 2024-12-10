@@ -64,5 +64,11 @@
                         "image": "http://msx.benzac.de/img/bg3.jpg"                       
                     }]
             }
-        }]
+        },
+    {
+            "icon": "movie",
+            "label": "Shqip TV",
+            "extensionLabel": "Default",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
+        },]
 }
